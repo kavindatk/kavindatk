@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python, SQL, spark, ETL, data visualization, bash and Linux
 - 💞️ I’m looking to collaborate on data engineering and analytics projects 
 - 📫 You can reach me via LinkedIn or email
+  
         LinkedIn : https://www.linkedin.com/in/kavindathennakoon/
 
 <!---
