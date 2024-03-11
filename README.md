@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Kavinda Thennakoon
+- :snowman: I'm a Tech Lead - BI and Analytics | ETL Developper | Data Visualizer | Programmer | SQL Developer
 - 👀 I’m interested in data engineering and data analytics
 - 🌱 I’m currently learning python, SQL, spark, ETL, data visualization, bash and Linux
 - 💞️ I’m looking to collaborate on data engineering and analytics projects 
