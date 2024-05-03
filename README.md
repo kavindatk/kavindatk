@@ -30,6 +30,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/kavindathennakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindathennakoon" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kavinda-thennakoon" height="30" width="40" /></a>
+<a href="https://hub.docker.com/u/kavindat" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="kavinda-thennakoon" height="30" width="40" /></a>  
 </p>
 
 
