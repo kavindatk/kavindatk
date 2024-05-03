@@ -17,7 +17,7 @@
 </td>
 <td width="45%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://github.com/kavindatk/kavindatk/blob/main/data.jpg">
+  <img align="center" alt="Coding" width="450" src="https://github.com/kavindatk/kavindatk/blob/main/hadoop.gif">
 
   </td>
 </tr>
