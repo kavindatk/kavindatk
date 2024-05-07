@@ -6,7 +6,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="55%" align="left">
+<td width="50%" align="left">
   
 - 🌱 I’m currently learning **PySpark and Kafka**
 
@@ -15,9 +15,9 @@
 - ⚡ Fun fact **Hello, problems. I’m your regular customer 🫢🫢**
 
 </td>
-<td width="45%" align="center">
+<td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://github.com/kavindatk/kavindatk/blob/main/hadoop.gif">
+  <img align="center" alt="Coding" width="450" src="https://github.com/kavindatk/kavindatk/blob/main/main_image.gif">
 
   </td>
 </tr>
