@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavinda Thennakon</h1>
-<h3 align="center">Enthusiastic Tech Lead: Specialized in BI, Analytics, ETL Development, Data Visualization, Programming, and SQL</h3>
+<h3 align="center">Enthusiastic Architect: Specialized in Data Engineering, Analytics, ETL Development, Data Visualization, Programming, and SQL</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindatk&label=Profile%20views&color=0e75b6&style=flat" alt="kavindatk" /> </p>
 
